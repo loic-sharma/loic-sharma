@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+I work on [NuGet](https://github.com/nuget) by day and [BaGet](https://github.com/loic-sharma/BaGet) by night!
+
+## Contact
+
+* Twitter: https://twitter.com/sharmaloic
+* LinkedIn: https://www.linkedin.com/in/loic-sharma/
 
 <!--
 **loic-sharma/loic-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
