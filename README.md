@@ -4,7 +4,7 @@ I work on [NuGet](https://github.com/nuget) by day and [BaGet](https://github.co
 
 ## Contact
 
-* Twitter: https://twitter.com/sharmaloic
+* Twitter: https://twitter.com/loicsharma
 * LinkedIn: https://www.linkedin.com/in/loic-sharma/
 
 <!--
