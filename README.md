@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I work on [NuGet](https://github.com/nuget) by day and [BaGet](https://github.com/loic-sharma/BaGet) by night!
+I work on [Flutter](https://github.com/flutter/flutter) by day and [BaGet](https://github.com/loic-sharma/BaGet) by night!
 
 ## Contact
 
